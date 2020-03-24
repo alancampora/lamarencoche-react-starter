@@ -1,4 +1,4 @@
-# lamarencoche-react-starter
+# 🌊🚗 lamarencoche-react-starter
 Tired of doing project setups over and over again ? This is your package, you can start from here! 
 
 # why 
@@ -15,7 +15,10 @@ and change the origin to your recently created repo
 
 ```
 > git remote set-url origin <git@github.com:your-remote-url>
+```
 
+```
+> yarn && yarn start
 ```
 
 And that's it!
