@@ -1,4 +1,4 @@
-# webpack-react-starter
+# lamarencoche-react-starter
 Tired of doing project setups over and over again ? This is your package, you can start from here! 
 
 # why 
@@ -8,7 +8,7 @@ Sometimes is good to use create-react-app, but it could be difficult to understa
 Ok, maybe this is NOT THE BEST, but you will have to clone this repo in the following way -
 
 ```
-> git clone git@github.com:alancampora/webpack-react-starter.git ./
+> git clone git@github.com:alancampora/lamarencoche-react-starter.git ./
 ```
 
 and change the origin to your recently created repo
